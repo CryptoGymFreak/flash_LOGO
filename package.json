@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^29.7.0"
+  },
+  "name": "flash_logo",
+  "description": "",
+  "version": "1.0.0",
+  "main": "LOGO.js",
+  "scripts": {
+    "start": "node logoGenerator.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
